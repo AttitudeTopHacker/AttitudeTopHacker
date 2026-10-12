@@ -1,27 +1,179 @@
-# 💫 About Me:
-Headline: Full Stack Developer | Solving Problems with MERN & Cloud<br><br>"Hi, I'm Salman! A passionate Full Stack Developer dedicated to building scalable web applications and seamless user experiences. I bridge the gap between complex backend logic and elegant frontend design."<br><br>🚀 Tech Stack: MongoDB, Express.js, React, Node.js, Next.js.<br><br>🛠 Tools: Docker, Git, AWS, Tailwind CSS.<br><br>📫 Reach me at: mohdsalman4151@gmail.com<br><br>⚡ Fun Fact: I love optimizing code until it’s as fast as a terminal command.
+<div align="center">
 
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:111827,50:2563eb,100:7c3aed&height=220&section=header&text=Mohd%20Salman&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20Specialist&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Mohd Salman Header Banner" />
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdsalman4151@gmail.com) 
+  <!-- Animated Typing Headline -->
+  <a href="https://github.com/AttitudeTopHacker">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Mohd+Salman!;%F0%9F%9A%80+Passionate+Full+Stack+Developer;%E2%98%95+Java+%26+Spring+Boot+Backend+Engineer;%E2%9A%9B%EF%B8%8F+React+%26+Modern+JavaScript+Craftsman;%E2%98%81%EF%B8%8F+Building+Scalable+Cloud+%26+Web+Solutions;%F0%9F%92%A1+Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
+  </a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AttitudeTopHacker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AttitudeTopHacker&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AttitudeTopHacker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <br/><br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AttitudeTopHacker&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <!-- Connect & Profile Quick Badges -->
+  <a href="mailto:mohdsalman4151@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohdsalman4151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AttitudeTopHacker">
+    <img src="https://img.shields.io/badge/GitHub-AttitudeTopHacker-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Primary" />
+  </a>
+  <a href="https://github.com/msm-movin">
+    <img src="https://img.shields.io/badge/GitHub-msm--movin-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Alternate" />
+  </a>
+  <a href="https://github.com/AttitudeTopHacker">
+    <img src="https://komarev.com/ghpvc/?username=AttitudeTopHacker&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AttitudeTopHacker&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AttitudeTopHacker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+```yaml
+Name: Mohd Salman
+Role: Full Stack Developer
+Focus: Enterprise Backend (Java / Spring Boot) & Reactive Frontend (React / JavaScript)
+Passion: Building scalable web applications, clean REST APIs, and seamless digital experiences
+Location: India
+Status: Open to high-impact opportunities & collaborative projects 🚀
+```
+
+- 👨‍💻 **Who I Am**: A passionate **Full-Stack Developer** who loves turning complex architectural and business problems into elegant, maintainable code.
+- 🚀 **Backend Mastery**: Building robust, fault-tolerant RESTful microservices with **Java, Spring Boot, Hibernate/JPA, and SQL/NoSQL databases**.
+- 🌐 **Frontend Craftsmanship**: Creating responsive, interactive, and user-centric web applications using **React, JavaScript (ES6+), and modern UI frameworks**.
+- 🛠️ **DevOps & Cloud**: Packaging applications with **Docker**, managing source workflows with **Git/GitHub**, and deploying across modern cloud platforms.
+- 🎯 **Goals**: Continuous self-improvement, diving deep into distributed systems, and contributing to open-source software.
+
+<br/>
+
+---
+
+### 🛠️ Tech Stack & Proficiencies
+
+<div align="center">
+
+#### ☕ Backend & Core Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+</p>
+
+#### 🎨 Frontend & UI Design
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
+
+#### 🗄️ Databases & Cloud Services
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+#### ⚙️ Developer Tools & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Apache Maven" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+</div>
+
+<br/>
+
+---
+
+### 🚀 Featured Repositories & Projects
+
+| Project | Tech Stack | Description | Link |
+| :--- | :--- | :--- | :--- |
+| **🛍️ E-Commerce Spring Boot Backend** | `Java`, `Spring Boot`, `Hibernate`, `REST API`, `MySQL` | Enterprise backend engine for e-commerce featuring authentication, product catalog, cart management, and order workflows. | [View Project ↗](https://github.com/AttitudeTopHacker/E-commerce-Spring-boot-Backend) |
+| **🖥️ Remote Desk v2** | `JavaScript`, `WebSockets`, `Node.js`, `HTML5/CSS3` | Fast and intuitive remote collaboration & desktop interaction utility. | [View Project ↗](https://github.com/AttitudeTopHacker/remote-desk-v2) |
+| **🛒 CStore Web Application** | `JavaScript`, `Frontend`, `Responsive UI`, `CSS3` | Feature-rich web storefront with modern UI and smooth user interaction. | [View Project ↗](https://github.com/AttitudeTopHacker/cstore) |
+| **☁️ Contact Saving Cloud** | `JavaScript`, `Cloud API`, `HTML5`, `CSS3` | Cloud-synced contact management application for secure storage and quick retrieval. | [View Project ↗](https://github.com/AttitudeTopHacker/ContactSavingCloud) |
+| **☕ Java Core Algorithms & OOP** | `Java`, `Data Structures`, `Algorithms`, `OOP` | Curated implementations of Core Java fundamentals, design patterns, and algorithmic challenges. | [View Project ↗](https://github.com/AttitudeTopHacker/java_core) |
+
+<br/>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AttitudeTopHacker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=94a3b8&icon_color=a855f7" alt="AttitudeTopHacker GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com/?user=AttitudeTopHacker&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttitudeTopHacker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=94a3b8" alt="Top Languages" width="60%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <b>Let's collaborate on something extraordinary! Whether it's a full-stack project, architecture discussion, or developer networking:</b>
+</p>
+
+<p align="center">
+  <a href="mailto:mohdsalman4151@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-mohdsalman4151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
+  </a>
+  <a href="mailto:aattitudetophacker@gmail.com">
+    <img src="https://img.shields.io/badge/Alt_Email-aattitudetophacker%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Alt Email" />
+  </a>
+  <a href="https://github.com/AttitudeTopHacker">
+    <img src="https://img.shields.io/badge/Primary_GitHub-AttitudeTopHacker-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="https://github.com/msm-movin">
+    <img src="https://img.shields.io/badge/Profile_Handle-msm--movin-24292e?style=for-the-badge&logo=github&logoColor=white" alt="msm-movin Profile" />
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <!-- Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:111827,50:2563eb,100:7c3aed&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <p align="center"><i>⚡ "Code with passion, build with precision." — Mohd Salman</i></p>
+</div>
