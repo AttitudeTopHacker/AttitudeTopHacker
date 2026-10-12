@@ -32,9 +32,9 @@
   <path d="M 40 55 Q 240 20, 480 55 T 920 55" fill="none" stroke="#1E293B" stroke-width="2" stroke-dasharray="8,6"/>
 
   <text x="480" y="46" text-anchor="middle" class="f-font f-quote">
-    &ldquo;ARCHITECTING SCALABLE CLOUD SYSTEMS &bull; ENGINEERING INTELLIGENT AI SOLUTIONS&rdquo;
+    "ARCHITECTING SCALABLE CLOUD SYSTEMS • ENGINEERING INTELLIGENT AI SOLUTIONS"
   </text>
   <text x="480" y="74" text-anchor="middle" class="f-font f-sub">
-    Crafted with precision by Mohd Salman &bull; Java Full Stack, AI &amp; Cloud Specialist
+    Crafted with precision by Mohd Salman • Java Full Stack, AI &amp; Cloud Specialist
   </text>
 </svg>

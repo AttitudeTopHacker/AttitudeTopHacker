@@ -64,7 +64,7 @@
   <g transform="translate(48, 38)">
     <rect width="360" height="28" rx="14" fill="#0F172A" stroke="#334155" stroke-width="1"/>
     <circle cx="16" cy="14" r="5" fill="#10B981"/>
-    <text x="32" y="18" class="font-mono tag-text">JAVA FULL STACK &bull; AI &bull; CLOUD ARCHITECT</text>
+    <text x="32" y="18" class="font-mono tag-text">JAVA FULL STACK • AI • CLOUD ARCHITECT</text>
   </g>
 
   <!-- Live Pulse Dot -->
@@ -79,7 +79,7 @@
 
   <!-- Professional Subtitle -->
   <text x="50" y="160" class="font-sans subtitle">
-    Java Full-Stack Developer &bull; Advanced Spring Boot Microservices &bull; AI Integration &bull; Cloud Architecture
+    Java Full-Stack Developer • Advanced Spring Boot Microservices • AI Integration • Cloud Architecture
   </text>
 
   <!-- Decorative Divider Line -->
@@ -87,7 +87,7 @@
 
   <!-- Skill Specialty Badges (Row 1) -->
   <g transform="translate(50, 206)">
-    <!-- Pill 1: Java & Spring Boot -->
+    <!-- Pill 1: Java &amp; Spring Boot -->
     <g transform="translate(0, 0)">
       <rect width="188" height="36" rx="10" fill="#1E293B" stroke="#475569" stroke-width="1"/>
       <text x="14" y="22" class="font-sans pill-text">☕ Spring Boot &amp; Microservices</text>
@@ -99,7 +99,7 @@
       <text x="14" y="22" class="font-sans pill-text">🤖 AI Integration &amp; LLMs</text>
     </g>
 
-    <!-- Pill 3: Mobile & Apps -->
+    <!-- Pill 3: Mobile &amp; Apps -->
     <g transform="translate(398, 0)">
       <rect width="198" height="36" rx="10" fill="#1E293B" stroke="#475569" stroke-width="1"/>
       <text x="14" y="22" class="font-sans pill-text">📱 Mobile APK &amp; iOS Apps</text>
@@ -120,7 +120,7 @@
       <text x="14" y="22" class="font-sans pill-text">📊 Data Science &amp; Python</text>
     </g>
 
-    <!-- Pill 6: Web & UI/UX -->
+    <!-- Pill 6: Web &amp; UI/UX -->
     <g transform="translate(200, 0)">
       <rect width="216" height="36" rx="10" fill="#1E293B" stroke="#C084FC" stroke-width="1" stroke-opacity="0.6"/>
       <text x="14" y="22" class="font-sans pill-text">🌐 React, Next.js &amp; UI Design</text>
@@ -132,7 +132,7 @@
       <text x="14" y="22" class="font-sans pill-text">⚡ High-Throughput REST APIs</text>
     </g>
 
-    <!-- Pill 8: Docker & CI/CD -->
+    <!-- Pill 8: Docker &amp; CI/CD -->
     <g transform="translate(650, 0)">
       <rect width="208" height="36" rx="10" fill="#1E293B" stroke="#475569" stroke-width="1"/>
       <text x="14" y="22" class="font-sans pill-text">🐳 Docker, CI/CD &amp; DevOps</text>
