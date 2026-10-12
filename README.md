@@ -2,7 +2,7 @@
 
   <!-- Native SVG Header Banner (Zero external dependency, 100% reliable) -->
   <a href="https://github.com/AttitudeTopHacker">
-    <img src="./assets/banner.svg" width="100%" alt="Mohd Salman - Java Full Stack Developer &amp; Cloud Architect" />
+    <img src="https://raw.githubusercontent.com/AttitudeTopHacker/AttitudeTopHacker/main/assets/banner.svg" width="100%" alt="Mohd Salman - Java Full Stack Developer &amp; Cloud Architect" />
   </a>
 
   <br/><br/>
@@ -240,5 +240,5 @@ Work Ethic: Clean Code • SOLID Principles • High Scalability • Zero Downti
 
 <div align="center">
   <!-- Native SVG Footer -->
-  <img src="./assets/footer.svg" width="100%" alt="Mohd Salman - Engineering Intelligent Solutions" />
+  <img src="https://raw.githubusercontent.com/AttitudeTopHacker/AttitudeTopHacker/main/assets/footer.svg" width="100%" alt="Mohd Salman - Engineering Intelligent Solutions" />
 </div>
