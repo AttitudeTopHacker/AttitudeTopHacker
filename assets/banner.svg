@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C15"/>
+      <stop offset="50%" stop-color="#0E1626"/>
+      <stop offset="100%" stop-color="#070A10"/>
+    </linearGradient>
+
+    <!-- Glowing Accent Gradients -->
+    <linearGradient id="primary-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#EF4444"/>
+    </linearGradient>
+
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="glow-left" cx="15%" cy="30%" r="40%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#080C15" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow-right" cx="85%" cy="60%" r="40%">
+      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#080C15" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="tech-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1E293B" stroke-width="0.8" stroke-opacity="0.5"/>
+      <circle cx="0" cy="0" r="1.5" fill="#38BDF8" fill-opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+    .font-mono { font-family: "JetBrains Mono", "Fira Code", monospace, "SF Mono", Consolas; }
+    .title { font-weight: 900; font-size: 46px; fill: url(#primary-grad); letter-spacing: 1.5px; }
+    .subtitle { font-weight: 600; font-size: 17px; fill: #E2E8F0; letter-spacing: 0.5px; }
+    .tag-text { font-weight: 700; font-size: 11px; fill: #38BDF8; letter-spacing: 1.5px; }
+    .pill-text { font-weight: 600; font-size: 12px; fill: #CBD5E1; }
+    .status-text { font-weight: 600; font-size: 12px; fill: #10B981; }
+  </style>
+
+  <!-- Container Box -->
+  <rect width="956" height="316" x="2" y="2" rx="16" fill="url(#bg-grad)"/>
+  <rect width="956" height="316" x="2" y="2" rx="16" fill="url(#tech-grid)"/>
+  <rect width="956" height="316" x="2" y="2" rx="16" fill="url(#glow-left)"/>
+  <rect width="956" height="316" x="2" y="2" rx="16" fill="url(#glow-right)"/>
+  <rect width="956" height="316" x="2" y="2" rx="16" fill="none" stroke="url(#border-grad)" stroke-width="2"/>
+
+  <!-- Top Status Badge -->
+  <g transform="translate(48, 38)">
+    <rect width="360" height="28" rx="14" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+    <circle cx="16" cy="14" r="5" fill="#10B981"/>
+    <text x="32" y="18" class="font-mono tag-text">JAVA FULL STACK &bull; AI &bull; CLOUD ARCHITECT</text>
+  </g>
+
+  <!-- Live Pulse Dot -->
+  <g transform="translate(730, 38)">
+    <rect width="180" height="28" rx="14" fill="#0F172A" stroke="#10B981" stroke-width="1" stroke-opacity="0.4"/>
+    <circle cx="16" cy="14" r="4.5" fill="#10B981"/>
+    <text x="28" y="18" class="font-sans status-text">OPEN FOR PROJECTS</text>
+  </g>
+
+  <!-- Main Hero Title -->
+  <text x="48" y="125" class="font-sans title">MOHD SALMAN</text>
+
+  <!-- Professional Subtitle -->
+  <text x="50" y="160" class="font-sans subtitle">
+    Java Full-Stack Developer &bull; Advanced Spring Boot Microservices &bull; AI Integration &bull; Cloud Architecture
+  </text>
+
+  <!-- Decorative Divider Line -->
+  <line x1="50" y1="184" x2="910" y2="184" stroke="#334155" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <!-- Skill Specialty Badges (Row 1) -->
+  <g transform="translate(50, 206)">
+    <!-- Pill 1: Java & Spring Boot -->
+    <g transform="translate(0, 0)">
+      <rect width="188" height="36" rx="10" fill="#1E293B" stroke="#475569" stroke-width="1"/>
+      <text x="14" y="22" class="font-sans pill-text">☕ Spring Boot &amp; Microservices</text>
+    </g>
+
+    <!-- Pill 2: AI Integration -->
+    <g transform="translate(200, 0)">
+      <rect width="186" height="36" rx="10" fill="#1E293B" stroke="#818CF8" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="14" y="22" class="font-sans pill-text">🤖 AI Integration &amp; LLMs</text>
+    </g>
+
+    <!-- Pill 3: Mobile & Apps -->
+    <g transform="translate(398, 0)">
+      <rect width="198" height="36" rx="10" fill="#1E293B" stroke="#475569" stroke-width="1"/>
+      <text x="14" y="22" class="font-sans pill-text">📱 Mobile APK &amp; iOS Apps</text>
+    </g>
+
+    <!-- Pill 4: Cloud Architecture -->
+    <g transform="translate(608, 0)">
+      <rect width="250" height="36" rx="10" fill="#1E293B" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="14" y="22" class="font-sans pill-text">☁️ AWS Cloud Architecture</text>
+    </g>
+  </g>
+
+  <!-- Skill Specialty Badges (Row 2) -->
+  <g transform="translate(50, 254)">
+    <!-- Pill 5: Data Science -->
+    <g transform="translate(0, 0)">
+      <rect width="188" height="36" rx="10" fill="#1E293B" stroke="#475569" stroke-width="1"/>
+      <text x="14" y="22" class="font-sans pill-text">📊 Data Science &amp; Python</text>
+    </g>
+
+    <!-- Pill 6: Web & UI/UX -->
+    <g transform="translate(200, 0)">
+      <rect width="216" height="36" rx="10" fill="#1E293B" stroke="#C084FC" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="14" y="22" class="font-sans pill-text">🌐 React, Next.js &amp; UI Design</text>
+    </g>
+
+    <!-- Pill 7: REST APIs -->
+    <g transform="translate(428, 0)">
+      <rect width="210" height="36" rx="10" fill="#1E293B" stroke="#475569" stroke-width="1"/>
+      <text x="14" y="22" class="font-sans pill-text">⚡ High-Throughput REST APIs</text>
+    </g>
+
+    <!-- Pill 8: Docker & CI/CD -->
+    <g transform="translate(650, 0)">
+      <rect width="208" height="36" rx="10" fill="#1E293B" stroke="#475569" stroke-width="1"/>
+      <text x="14" y="22" class="font-sans pill-text">🐳 Docker, CI/CD &amp; DevOps</text>
+    </g>
+  </g>
+</svg>
